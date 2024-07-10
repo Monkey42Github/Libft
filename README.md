@@ -108,4 +108,5 @@ gcc -o my_program my_program.c -L. -lft
 ```
 
 ## Contributors
-[pschemit](https://github.com/pschemit](https://github.com/Monkey42Github)
+[pschemit](https://github.com/pschemit)
+
