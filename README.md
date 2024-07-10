@@ -1,4 +1,4 @@
-# Libft Project - 42
+# Libft - 42
 
 Welcome to the **Libft** project, a foundational project at 42 that involves recreating several standard functions from the C library (libc).
 
