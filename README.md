@@ -98,7 +98,7 @@ make
 
 ## Usage
 To use this library in your projects, include libft.h in your source files and compile your project with libft.a:
-```sh
+```c
 #include "libft.h"
 ```
 
